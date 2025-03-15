@@ -1,0 +1,1 @@
+worker: python3 Hacker-Facebook-Bot-Merged.py
