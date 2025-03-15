@@ -1,0 +1,12 @@
+python-telegram-bot
+requests
+bs4
+rich
+user_agent
+python-cfonts
+concurrent.futures
+datetime
+uuid
+json
+random
+subprocess
